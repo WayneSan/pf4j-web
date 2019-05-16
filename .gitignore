@@ -1,4 +1,5 @@
-*/target
+**/target/
+demo/plugins/
 .project
 /bin
 .classpath
